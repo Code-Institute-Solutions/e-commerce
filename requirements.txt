@@ -13,7 +13,6 @@ jmespath==0.9.3
 olefile==0.44
 psycopg2==2.7.3.1
 pycurl==7.19.3
-python-apt==0.9.3.5ubuntu2
 python-dateutil==2.6.1
 pytz==2017.2
 requests==2.2.1
