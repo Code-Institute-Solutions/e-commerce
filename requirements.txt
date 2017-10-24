@@ -19,6 +19,5 @@ requests==2.2.1
 s3transfer==0.1.11
 six==1.5.2
 stripe==1.70.0
-unattended-upgrades==0.1
 urllib3==1.7.1
 wheel==0.24.0
