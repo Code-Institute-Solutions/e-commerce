@@ -1,4 +1,4 @@
-Django==1.11.6
+Django==1.11.15
 Pillow==4.3.0
 chardet==2.2.1
 colorama==0.2.5
@@ -11,7 +11,7 @@ olefile==0.44
 pycurl==7.19.3
 python-dateutil==2.6.1
 pytz==2017.2
-requests==2.2.1
+requests==2.20
 six==1.5.2
-urllib3==1.7.1
+urllib3==1.23
 wheel==0.24.0
