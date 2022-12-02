@@ -1,5 +1,5 @@
 Django~=1.11.19
-Pillow~=8.2.0
+Pillow~=9.2.0
 boto3~=1.4.7
 botocore~=1.7.34
 chardet~=2.2.1
@@ -12,7 +12,7 @@ gunicorn~=19.7.1
 html5lib~=0.999
 jmespath~=0.9.3
 olefile~=0.44
-psycopg2~=2.7.3.1
+psycopg2-binary~=2.9.3
 pycurl~=7.19.3
 python-dateutil~=2.6.1
 pytz~=2017.2
